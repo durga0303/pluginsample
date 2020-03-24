@@ -1,0 +1,17 @@
+{
+  "name": "cordova-ios-plugin",
+  "version": "0.1.0",
+  "description": "ios example plugin",
+  "cordova": {
+    "id": "cordova-ios-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Durga Vundavalli",
+  "license": "No"
+}
